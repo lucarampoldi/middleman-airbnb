@@ -1,0 +1,25 @@
+lucarampoldi:
+  github_nickname: 'lucarampoldi'
+  description: "elite gladitator school"
+  city_name: "rome"
+  tigers: true
+  elephants: false
+  violence_rating: 5
+  image: "rome.png"
+jacko'connor:
+  github_nickname: 'jackjoconnor'
+  description: "cheaper gladiator school"
+  city_name: "london"
+  tigers: false
+  elephants: true
+  violence_rating: 2
+  image: "englisharena.jpg"
+andrebappert:
+  github_nickname: impactpractice
+  description: "barbarian school"
+  city_name: "berlin"
+  tigers: false
+  elephants: false
+  violence_rating: 1
+  image: "germanarena.jpg"
+
